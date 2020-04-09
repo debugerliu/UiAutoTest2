@@ -9,6 +9,7 @@ class BaseAction(object):
         self.driver = webdriver.Chrome()
         self.base_url = base_url
         self.driver.get(base_url)
+        self.driver.implicitly_wait(30)
 
     # 点击方法的封装，find_element为定位方法，ele为传入的参数，需要使用下标取值
     def click_button(self, ele):
