@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Fri Apr 10 13:07:14 CST 2020","Fri Apr 10 13:07:25 CST 2020","10688","","test02","Test01","","","test_login",""

@@ -1,0 +1,43 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "vsh-liuxingwen",
+    "children" : [ {
+      "name" : "17000-MainThread",
+      "children" : [ {
+        "name" : "test_login",
+        "uid" : "a35406188d21802d",
+        "parentUid" : "1c4d5ce83a12a7dd56cd028209c73704",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586495150657,
+          "stop" : 1586495161582,
+          "duration" : 10925
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "1c4d5ce83a12a7dd56cd028209c73704"
+    }, {
+      "name" : "14768-MainThread",
+      "children" : [ {
+        "name" : "test_login",
+        "uid" : "217ab12b31516fe6",
+        "parentUid" : "818afec299d67ea2fc8ec3f75ffa4a70",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586495234394,
+          "stop" : 1586495245082,
+          "duration" : 10688
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "818afec299d67ea2fc8ec3f75ffa4a70"
+    } ],
+    "uid" : "46ff01bdefa556ded7ddf94677c0b9ef"
+  } ]
+}
